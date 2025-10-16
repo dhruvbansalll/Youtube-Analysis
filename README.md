@@ -19,6 +19,4 @@ Prerequisites : Python and pip must be installed.
 
 **Install dependencies:** pip install pandas numpy matplotlib seaborn plotly jupyter
 
-**Run the analysis:** Add your video_id_info.csv file to the project folder.
-
 **Launch the Jupyter Notebook and run the cells:** jupyter notebook Youtube.ipynb
